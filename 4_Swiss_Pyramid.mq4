@@ -2,6 +2,9 @@
 //|                                              RW_SwissPyramid.mq4 |
 //|                        Copyright 2016, MetaQuotes Software Corp. |
 //|                                             https://www.mql5.com |
+//|                                                                  |
+//| CREATE RECTANGLE, RENAME IT ( REMOVE DIGITS ) AND ENTER          |
+//| PARAMETERS OF PYRAMID                                            |
 //+------------------------------------------------------------------+
 #property copyright "Copyright 2016, MetaQuotes Software Corp."
 #property link      "https://www.mql5.com"

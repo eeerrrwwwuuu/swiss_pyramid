@@ -1,8 +1,11 @@
 //+------------------------------------------------------------------+
 //|                                                Swiss_Pyramid.mq4 |
-//|                        Copyright 2016, MetaQuotes Software Corp. |
-//|                                             https://www.mql5.com |
+//|                                                                  |
+//|  SCRIPT MONITORS ALL POSITIONS, IF TOTAL LOSS IS BIGGER THAN     |
+//|  LIMIT ALL OPEN AND PENDING ORDERS WILL BE REMOVED               |
 //+------------------------------------------------------------------+
+
+
 #property copyright "Copyright 2016, MetaQuotes Software Corp."
 #property link      "https://www.mql5.com"
 #property version   "1.00"
